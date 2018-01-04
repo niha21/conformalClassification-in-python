@@ -1,0 +1,11 @@
+setup.py
+conformalClassification/__init__.py
+conformalClassification/config.py
+conformalClassification/icp.py
+conformalClassification/par_tcp.py
+conformalClassification/perf_measure.py
+conformalClassification/tcp.py
+conformalClassification.egg-info/PKG-INFO
+conformalClassification.egg-info/SOURCES.txt
+conformalClassification.egg-info/dependency_links.txt
+conformalClassification.egg-info/top_level.txt
